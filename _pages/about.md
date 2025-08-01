@@ -25,9 +25,9 @@ Work Experience
 ======
 &bull; 2025.7 - now:    Assistant Researcher, Zhongguancun Laboratory, Beijing, China  
 
-Education
+Publications
 ======
-[You can also find my articles on my Google Scholar profile.](https://scholar.google.com/citations?user=pXGsXmIAAAAJ&hl=en)
+[You can also find my papers on my Google Scholar profile.](https://scholar.google.com/citations?user=pXGsXmIAAAAJ&hl=en)
 ## Journals
 1. Acbot: an iiot platform for industrial robots. Frontiers of Computer Science 19 (4), (CCF-B), (*First Author*)  [Paper Link](https://link.springer.com/article/10.1007/s11704-024-3449-x)
 2. ISM: intra-class similarity mixing for time series augmentation. Frontiers of Computer Science 18 (6), (CCF-B), (*Corresponding Author*)  [Paper Link](https://link.springer.com/article/10.1007/s11704-024-40110-9)
